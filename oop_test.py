@@ -79,7 +79,7 @@ try:
                 question, answer = answer, question
 
             print (question)
-
+#aaa
             input('>>>>>>>>>')
             print ("ANSWER:  %s\n\n" % answer)
 except EOFError:
